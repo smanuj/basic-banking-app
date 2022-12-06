@@ -1,4 +1,4 @@
-# **Basic Banking App
+# **Basic Banking App**
 
 ## Description
 * Banking System App which keeps track of its user's and their transaction history.
